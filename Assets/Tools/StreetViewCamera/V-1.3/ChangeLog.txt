@@ -1,0 +1,13 @@
+StreetViewCamera - Change Log- v 1.3
+
+1.3 | 2022-02-18
+[Added] Camera rotation added on mouse right click.
+[Added]  Bool added to enable pointer rotation on colliders only.
+
+[Fix] Camera constant rotation has stopped. The camera will reaming standstill until you rotate the mouse.
+
+1.1
+Street View Camera Setting UI Panel added with Toggle Button.
+
+1.0
+Main Functionality Added
