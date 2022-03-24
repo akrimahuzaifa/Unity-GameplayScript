@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 120f89a1cdab7f140a40bdb1897b9527
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -5678042563081859403
+    second: Laser Gun Tower.001|Circle.015Action
+  - first:
+      74: -2736998300656336468
+    second: Laser Gun Tower.001|Circle.019Action
+  - first:
+      74: -5479380118668091056
+    second: Laser Gun Tower.001|Cube.010Action.001
+  - first:
+      74: -6803964685326947418
+    second: Laser Gun Tower.001|Cube.010Action.007
+  - first:
+      74: -1370268850984827173
+    second: Laser Gun Tower.001|Cube.010Action.008
+  - first:
+      74: 1281132422443992631
+    second: Laser Gun Tower.001|Cube.010Action.009
+  - first:
+      74: 7359042355074393079
+    second: Laser Gun Tower.001|Cube.011Action.001
+  - first:
+      74: -6274023892672404704
+    second: Laser Gun Tower.001|Cube.011Action.005
+  - first:
+      74: 5830553431603406438
+    second: Laser Gun Tower.001|Cube.011Action.006
+  - first:
+      74: 9038406600883383884
+    second: Laser Gun Tower.001|Cube.011Action.007
+  - first:
+      74: -3589395940799144974
+    second: Laser Gun Tower.001|Fire
+  - first:
+      74: 1408236305750621222
+    second: Circle.002|Circle.015Action
+  - first:
+      74: 4372335470324776738
+    second: Circle.002|Circle.019Action
+  - first:
+      74: 240216943907751462
+    second: Circle.002|Cube.010Action.001
+  - first:
+      74: 4295722192288254356
+    second: Circle.002|Cube.010Action.007
+  - first:
+      74: 5221513783938204046
+    second: Circle.002|Cube.010Action.008
+  - first:
+      74: 3615124778235457014
+    second: Circle.002|Cube.010Action.009
+  - first:
+      74: -2496734329754115311
+    second: Circle.002|Cube.011Action.001
+  - first:
+      74: -5599171807875304499
+    second: Circle.002|Cube.011Action.005
+  - first:
+      74: -1065472319632887822
+    second: Circle.002|Cube.011Action.006
+  - first:
+      74: -8348144955136181080
+    second: Circle.002|Cube.011Action.007
+  - first:
+      74: -5073072788835967306
+    second: Circle.002|Fire
+  - first:
+      74: 7489864770458021491
+    second: Laser Gun Tower.002|Circle.015Action
+  - first:
+      74: 7219651355161440338
+    second: Laser Gun Tower.002|Circle.019Action
+  - first:
+      74: -7225452231956375083
+    second: Laser Gun Tower.002|Cube.010Action.001
+  - first:
+      74: -7409648366888013277
+    second: Laser Gun Tower.002|Cube.010Action.007
+  - first:
+      74: 7483172522825704202
+    second: Laser Gun Tower.002|Cube.010Action.008
+  - first:
+      74: -378555576704827075
+    second: Laser Gun Tower.002|Cube.010Action.009
+  - first:
+      74: -1370938186846729605
+    second: Laser Gun Tower.002|Cube.011Action.001
+  - first:
+      74: 2176971320159985894
+    second: Laser Gun Tower.002|Cube.011Action.005
+  - first:
+      74: 299203283763387742
+    second: Laser Gun Tower.002|Cube.011Action.006
+  - first:
+      74: 7875328408422336646
+    second: Laser Gun Tower.002|Cube.011Action.007
+  - first:
+      74: 5614976691276881471
+    second: Laser Gun Tower.002|Fire
+  - first:
+      74: 5455841859004149083
+    second: Cube.007|Circle.015Action
+  - first:
+      74: 464063693377262922
+    second: Cube.007|Circle.019Action
+  - first:
+      74: 6397793034878740029
+    second: Cube.007|Cube.010Action.001
+  - first:
+      74: -1231674733794322318
+    second: Cube.007|Cube.010Action.007
+  - first:
+      74: -6353595970506798063
+    second: Cube.007|Cube.010Action.008
+  - first:
+      74: -7062061700642357951
+    second: Cube.007|Cube.010Action.009
+  - first:
+      74: -7690790630220808983
+    second: Cube.007|Cube.011Action.001
+  - first:
+      74: -3789025385670178849
+    second: Cube.007|Cube.011Action.005
+  - first:
+      74: 4049575069041576960
+    second: Cube.007|Cube.011Action.006
+  - first:
+      74: -34768797057250157
+    second: Cube.007|Cube.011Action.007
+  - first:
+      74: -1949571260652542005
+    second: Cube.007|Fire
+  - first:
+      74: 5767526308212909736
+    second: Laser Gun Tower.005|Circle.015Action
+  - first:
+      74: -6788975453930211909
+    second: Laser Gun Tower.005|Circle.019Action
+  - first:
+      74: -1139940370629529053
+    second: Laser Gun Tower.005|Cube.010Action.001
+  - first:
+      74: -2340098713366757890
+    second: Laser Gun Tower.005|Cube.010Action.007
+  - first:
+      74: -2200617493283840657
+    second: Laser Gun Tower.005|Cube.010Action.008
+  - first:
+      74: -6355477574686546482
+    second: Laser Gun Tower.005|Cube.010Action.009
+  - first:
+      74: -14683341123844519
+    second: Laser Gun Tower.005|Cube.011Action.001
+  - first:
+      74: -1280970538215402268
+    second: Laser Gun Tower.005|Cube.011Action.005
+  - first:
+      74: 7032366238658982083
+    second: Laser Gun Tower.005|Cube.011Action.006
+  - first:
+      74: 53138788163612454
+    second: Laser Gun Tower.005|Cube.011Action.007
+  - first:
+      74: 89968672703302021
+    second: Laser Gun Tower.005|Fire
+  - first:
+      74: 4020931075771070505
+    second: Cube.005|Circle.015Action
+  - first:
+      74: -1847591999246921263
+    second: Cube.005|Circle.019Action
+  - first:
+      74: 1573841486047455086
+    second: Cube.005|Cube.010Action.001
+  - first:
+      74: 5246363302367797459
+    second: Cube.005|Cube.010Action.007
+  - first:
+      74: -8363680777086380290
+    second: Cube.005|Cube.010Action.008
+  - first:
+      74: 1783985431769115241
+    second: Cube.005|Cube.010Action.009
+  - first:
+      74: -4444734454445301474
+    second: Cube.005|Cube.011Action.001
+  - first:
+      74: -3664438539064700025
+    second: Cube.005|Cube.011Action.005
+  - first:
+      74: -6512145332515082424
+    second: Cube.005|Cube.011Action.006
+  - first:
+      74: -6699922351081726006
+    second: Cube.005|Cube.011Action.007
+  - first:
+      74: -3732694917014830571
+    second: Cube.005|Fire
+  - first:
+      74: 3546929488267932814
+    second: Laser Gun Tower.004|Circle.015Action
+  - first:
+      74: -3201113370253650510
+    second: Laser Gun Tower.004|Circle.019Action
+  - first:
+      74: 6331979028897889905
+    second: Laser Gun Tower.004|Cube.010Action.001
+  - first:
+      74: 4569303507322522546
+    second: Laser Gun Tower.004|Cube.010Action.007
+  - first:
+      74: 6367951323775434298
+    second: Laser Gun Tower.004|Cube.010Action.008
+  - first:
+      74: -2031350959809719438
+    second: Laser Gun Tower.004|Cube.010Action.009
+  - first:
+      74: -752284747259364831
+    second: Laser Gun Tower.004|Cube.011Action.001
+  - first:
+      74: -4429000670411977877
+    second: Laser Gun Tower.004|Cube.011Action.005
+  - first:
+      74: 618904179951174287
+    second: Laser Gun Tower.004|Cube.011Action.006
+  - first:
+      74: -1502299962053632484
+    second: Laser Gun Tower.004|Cube.011Action.007
+  - first:
+      74: -4276100399396880208
+    second: Laser Gun Tower.004|Fire
+  - first:
+      74: -2818765052536307534
+    second: Cube.003|Circle.015Action
+  - first:
+      74: 6207321652120219976
+    second: Cube.003|Circle.019Action
+  - first:
+      74: 2362240733115298314
+    second: Cube.003|Cube.010Action.001
+  - first:
+      74: -552135183097120215
+    second: Cube.003|Cube.010Action.007
+  - first:
+      74: 6073429227640093120
+    second: Cube.003|Cube.010Action.008
+  - first:
+      74: -5903010118860224387
+    second: Cube.003|Cube.010Action.009
+  - first:
+      74: -4546681421382456480
+    second: Cube.003|Cube.011Action.001
+  - first:
+      74: 1322975661554938249
+    second: Cube.003|Cube.011Action.005
+  - first:
+      74: 5349545606948660581
+    second: Cube.003|Cube.011Action.006
+  - first:
+      74: -444951565861538762
+    second: Cube.003|Cube.011Action.007
+  - first:
+      74: -147535034003321913
+    second: Cube.003|Fire
+  - first:
+      74: -246146162594917800
+    second: Laser Gun Tower.003|Circle.015Action
+  - first:
+      74: 3358351908458357047
+    second: Laser Gun Tower.003|Circle.019Action
+  - first:
+      74: 5443308472880187111
+    second: Laser Gun Tower.003|Cube.010Action.001
+  - first:
+      74: -739980416109528734
+    second: Laser Gun Tower.003|Cube.010Action.007
+  - first:
+      74: -5462149628860008399
+    second: Laser Gun Tower.003|Cube.010Action.008
+  - first:
+      74: 8439542684479376698
+    second: Laser Gun Tower.003|Cube.010Action.009
+  - first:
+      74: 5773964217808973279
+    second: Laser Gun Tower.003|Cube.011Action.001
+  - first:
+      74: -2747978815820340315
+    second: Laser Gun Tower.003|Cube.011Action.005
+  - first:
+      74: -7802354951441310402
+    second: Laser Gun Tower.003|Cube.011Action.006
+  - first:
+      74: 2189709886714721738
+    second: Laser Gun Tower.003|Cube.011Action.007
+  - first:
+      74: 411652741356474678
+    second: Laser Gun Tower.003|Fire
+  - first:
+      74: -7118794011521508187
+    second: Cube.001|Circle.015Action
+  - first:
+      74: 3519898201340921352
+    second: Cube.001|Circle.019Action
+  - first:
+      74: -3781474924751702338
+    second: Cube.001|Cube.010Action.001
+  - first:
+      74: -8805137674104022465
+    second: Cube.001|Cube.010Action.007
+  - first:
+      74: -2172396581261799066
+    second: Cube.001|Cube.010Action.008
+  - first:
+      74: 889396032511279158
+    second: Cube.001|Cube.010Action.009
+  - first:
+      74: -2124237226115469614
+    second: Cube.001|Cube.011Action.001
+  - first:
+      74: 2338409717628950305
+    second: Cube.001|Cube.011Action.005
+  - first:
+      74: 6142043896772137369
+    second: Cube.001|Cube.011Action.006
+  - first:
+      74: -6977864587428338655
+    second: Cube.001|Cube.011Action.007
+  - first:
+      74: -1772689343535203794
+    second: Cube.001|Fire
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

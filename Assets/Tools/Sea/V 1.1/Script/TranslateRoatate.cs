@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TranslateRoatate : MonoBehaviour
 {
-    [Range (10f,100f)] 
+    [Range (10f,20f)] 
     public float speed = 5f;
 
     // Start is called before the first frame update
