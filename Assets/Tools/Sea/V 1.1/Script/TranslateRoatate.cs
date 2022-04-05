@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class TranslateRoatate : MonoBehaviour
 {
-    [Range (10f,20f)] 
+    Rigidbody rb;
+    //[Range (1f,5f)] 
     public float speed = 5f;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        rb = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
@@ -22,10 +23,11 @@ public class TranslateRoatate : MonoBehaviour
         {
             transform.Translate(new Vector3(xAxis, 0, zAxis));
         }
-     
+
         if (Input.GetButton("Jump"))
         {
-            transform.Translate(new Vector3(0, 0, 0));
+            transform.Translate(new Vector3(0, 1, 0));
+            //rb.velocity = new Vector3(rb.velocity.x, speed, rb.velocity.z);
         }
     }
 }
